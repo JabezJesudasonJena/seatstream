@@ -16,6 +16,7 @@
     "cassandra-driver": "^4.9.0",
     "express": "^5.2.1",
     "kafkajs": "^2.2.4",
+    "redis": "^6.1.0",
     "uuid": "^14.0.1"
   },
   "devDependencies": {
